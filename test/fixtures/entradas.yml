@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nome: MyString
+  unidade: 
+  valorUnit: 1.5
+  valotTotal: 1.5
+  dataEntrada: 2017-11-14
+  descricao: MyText
+
+two:
+  nome: MyString
+  unidade: 
+  valorUnit: 1.5
+  valotTotal: 1.5
+  dataEntrada: 2017-11-14
+  descricao: MyText
